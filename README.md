@@ -4,3 +4,7 @@
 
 ## ⌛️ Retrospect
 - [2022년을 보내며](https://seungjjun.tistory.com/222)
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jel1y)](https://solved.ac/jel1y/)
